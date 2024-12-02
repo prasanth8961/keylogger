@@ -24,5 +24,10 @@ This project is a simple **Keylogger** built using Python. It logs all the keys 
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/keylogger-app.git
-   cd keylogger-app
+   git clone https://github.com/prasanth8961/keylogger.git
+   cd keylogger
+2. Install necessery packages
+- The following Python libraries:
+  ```
+  pip install pynput
+
